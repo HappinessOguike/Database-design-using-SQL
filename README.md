@@ -1,5 +1,6 @@
 # Database-design-using-SQL
-# Designed a database to compare child wellbeing in developing countries #
+**Designed a database to compare child wellbeing in developing countries:**
+
 Data realized from the Young Live project was processed and integrated into the charity's 
 Child Wellbeing Monitor, a reporting tool for child poverty analysis to better understand the root 
 causes and effects of childhood poverty in low-income nations for effective child welfare 
