@@ -1,4 +1,4 @@
-# Database-design-using-SQL
+# Child Wellbeing Monitor Database-design-using-SQL
 **Designed a database to compare child wellbeing in developing countries:**
 
 Data realized from the Young Live project was processed and integrated into the charity's 
